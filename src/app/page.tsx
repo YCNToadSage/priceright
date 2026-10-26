@@ -1,4 +1,5 @@
 import Calculator from "@/components/Calculator";
+<meta name="google-site-verification" content="im0eXDB4pCgIb7hZ5bcfV6kIgwTAyp0v_yUBoNVSiGs" />
 export default function Home() {
   return (<>
     <header className="border-b border-slate-300"><div className="mx-auto max-w-3xl px-4 py-3 text-xl font-bold">PriceRight</div></header>
